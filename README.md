@@ -1,5 +1,13 @@
-### Oii! Eu sou a Daniela Faria
+### Hii! I am Daniela Faria
 
 -  Computer Engineering Student at Inatel
 
-(https://github-readme-stats.vercel.app/api?username=01danifaria)](https://github.com/01danifaria/github-readme-stats)
+I am learning:
+<i class="devicon-java-plain-wordmark"></i>
+<i class="devicon-mysql-plain"></i>
+<i class="devicon-cplusplus-line"></i>
+<i class="devicon-javascript-plain"></i>
+<i class="devicon-github-original-wordmark"></i>
+
+
+
