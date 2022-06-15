@@ -11,4 +11,5 @@ I am learning:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=01danifaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div class="tenor-gif-embed" data-postid="23685199" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/wow-interesting-cool-busy-busy-cat-gif-23685199">Wow Interesting GIF</a>from <a href="https://tenor.com/search/wow-gifs">Wow GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div>
+<class="tenor-gif-embed" data-postid="23685199" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/wow-interesting-cool-busy-busy-cat-gif-23685199">Wow Interesting GIF</a>from <a href="https://tenor.com/search/wow-gifs">Wow GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"> </script>
