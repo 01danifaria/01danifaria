@@ -11,5 +11,4 @@ I am learning:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=01danifaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
-![wow-interesting](https://user-images.githubusercontent.com/100132170/173904098-f94aa5c7-b4a7-4eb2-8771-3e31b2133d45.gif)
+Picrewの「AmphyPop Doll Maker」でつくったよ！ https://picrew.me/share?cd=Ti4Xe5rFP8 #Picrew #AmphyPop_Doll_Maker
