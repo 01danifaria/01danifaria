@@ -14,6 +14,6 @@ I am learning:
 </div>
 
 <div>
-<img align ="right" alt ="cat"![wow-interesting](https://user-images.githubusercontent.com/100132170/173906936-70159f9a-6248-406e-acde-9cdbaac2a058.gif)
+<img align ="right" alt ="cat" src ="https://tenor.com/view/wow-interesting-cool-busy-busy-cat-gif-23685199"/>
 >
 <div>
