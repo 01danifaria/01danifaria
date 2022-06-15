@@ -13,7 +13,6 @@ I am learning:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=01danifaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div>
-<img align ="right" alt ="cat" src ="https://tenor.com/view/wow-interesting-cool-busy-busy-cat-gif-23685199">
->
-<div>
+
+<img src ="https://tenor.com/view/wow-interesting-cool-busy-busy-cat-gif-23685199">
+
