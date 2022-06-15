@@ -11,4 +11,5 @@ I am learning:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=01danifaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div class="tenor-gif-embed" data-postid="23685199" data-share-method="host" data-aspect-ratio="0.8" data-width="50%"><a href="https://tenor.com/view/wow-interesting-cool-busy-busy-cat-gif-23685199">Wow Interesting GIF</a>from <a href="https://tenor.com/search/wow-gifs">Wow GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+![wow-interesting](https://user-images.githubusercontent.com/100132170/173904098-f94aa5c7-b4a7-4eb2-8771-3e31b2133d45.gif)
