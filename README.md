@@ -14,5 +14,3 @@ I am learning:
 </div>
 
 
-<img src ="https://tenor.com/view/wow-interesting-cool-busy-busy-cat-gif-23685199">
-
